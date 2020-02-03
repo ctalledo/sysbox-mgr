@@ -9,7 +9,7 @@ require (
 	github.com/nestybox/sysbox-ipc v0.0.0-00010101000000-000000000000
 	github.com/nestybox/sysbox-runc v0.0.0-00010101000000-000000000000
 	github.com/opencontainers/runc v0.0.0-00010101000000-000000000000
-	github.com/opencontainers/runtime-spec v1.0.1
+	github.com/opencontainers/runtime-spec v0.1.2-0.20190207185410-29686dbc5559
 	github.com/sirupsen/logrus v1.4.2
 	github.com/urfave/cli v1.20.0
 	golang.org/x/sys v0.0.0-20190602015325-4c4f7f33c9ed
