@@ -12,7 +12,7 @@ require (
 	github.com/nestybox/sysbox-libs/utils v0.0.0-00010101000000-000000000000
 	github.com/nestybox/sysbox-runc v0.0.0-00010101000000-000000000000
 	github.com/opencontainers/runc v0.0.0-00010101000000-000000000000
-	github.com/opencontainers/runtime-spec v1.0.2
+	github.com/opencontainers/runtime-spec v1.0.3-0.20200520003142-237cc4f519e2
 	github.com/pkg/profile v1.4.0
 	github.com/sirupsen/logrus v1.4.2
 	github.com/urfave/cli v1.20.0
